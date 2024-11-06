@@ -5,7 +5,7 @@
 		--color-light-grey : #f3f3f3;
 		--color-dark-grey : #353535;
 		--text-color : var(--color-black);
-		--font-family-base : 'open sans', Helvetica Neue, Helvetica, Arial, sans-serif ;
+		--font-family-base : 'open sans', Helvetica Neue, Helvetica, Arial, sans-serif;
 		--font-family-title : 'Raleway', Helvetica Neue, Helvetica, Arial, sans-serif;
 		--font-weight-regular : 400;
 		--font-weight-bold : 700;
@@ -34,6 +34,7 @@
 		color : #161616;
 		font-weight : var(--font-weight-regular);
 	}
+
 	a {
 		color : #161616;
 	}
